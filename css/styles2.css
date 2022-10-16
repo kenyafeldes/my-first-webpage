@@ -1,0 +1,23 @@
+h1 {
+  color: #141414;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+  color:#141414;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+
+h3 {
+  color:#141414;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: lighter;
+  font-style: italic;
+}
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight:lighter;
+}
+
