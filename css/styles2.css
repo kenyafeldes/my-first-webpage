@@ -21,3 +21,7 @@ p {
   font-weight:lighter;
 }
 
+img {
+  border-radius: 30px;
+}
+
